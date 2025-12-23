@@ -32,7 +32,7 @@ export function Header() {
         {/* Main Header */}
         <div className="flex items-center justify-between py-4">
           <div className="flex items-center gap-4">
-            <img src="/nv-constructions-site/src/assets/images/logo.jpg" alt="NV Constructions" className="h-16 w-auto" />
+            <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="h-16 w-auto" />
           </div>
 
           <nav className="hidden md:flex items-center gap-8">

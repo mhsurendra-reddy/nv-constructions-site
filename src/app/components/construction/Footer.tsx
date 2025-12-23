@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <img src="/nv-constructions-site/src/assets/images//logo.jpg" alt="NV Constructions" className="h-16 w-auto" />
+            <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="h-16 w-auto" />
             <p className="text-gray-400 mb-4">
               Your trusted partner for quality construction services in Anantapuramu.
             </p>

@@ -21,7 +21,7 @@ export function HeroSection() {
             transition={{ duration: 0.6 }}
           >
             <div className="mb-6">
-              <img src="/nv-constructions-site/src/assets/images/logo.jpg" alt="NV Constructions" className="h-32 w-auto mb-6" />
+              <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="h-32 w-auto mb-6" />
             </div>
             <h1 className="text-gray-900 mb-6">
               Building Dreams with Excellence
@@ -81,7 +81,7 @@ export function HeroSection() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="/nv-constructions-site/src/assets/images/project1.jpg"
+                src="/nv-constructions-site/images/project1.jpg"
                 alt="Construction Project"
                 className="w-full h-[500px] object-cover"
               />
