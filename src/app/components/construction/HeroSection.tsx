@@ -21,7 +21,7 @@ export function HeroSection() {
             transition={{ duration: 0.6 }}
           >
             <div className="mb-6">
-              <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="h-32 w-auto mb-6" />
+              <img src="/nv-constructions-site/images/logo.png" alt="NV Constructions" className="h-32 w-auto mb-6" />
             </div>
             <h1 className="text-gray-900 mb-6">
               Building Dreams with Excellence

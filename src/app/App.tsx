@@ -8,6 +8,7 @@ import { WhyChooseSection } from './components/construction/WhyChooseSection';
 import { ProjectGallery } from './components/construction/ProjectGallery';
 import { ContactSection } from './components/construction/ContactSection';
 import { Footer } from './components/construction/Footer';
+import { WhatsAppButton } from './components/construction/WhatsAppButton';
 
 export default function App() {
   return (
@@ -20,6 +21,8 @@ export default function App() {
       <ProjectGallery />
       <ContactSection />
       <Footer />
+      {/* Floating WhatsApp Button */}
+      <WhatsAppButton />
     </div>
   );
 }

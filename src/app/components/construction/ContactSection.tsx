@@ -93,9 +93,6 @@ export function ContactSection() {
                     <a href="tel:9392309864" className="text-gray-900 hover:text-orange-600 transition-colors block">
                       +91 9392309864
                     </a>
-                    <a href="tel:8008844057" className="text-gray-900 hover:text-orange-600 transition-colors block">
-                      +91 8008844057
-                    </a>
                   </div>
                 </div>
 
@@ -106,8 +103,8 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="text-gray-600 mb-2">Email Address</p>
-                    <a href="mailto:ranganath3112@gmail.com" className="text-gray-900 hover:text-orange-600 transition-colors">
-                      ranganath3112@gmail.com
+                    <a href="mailto:nvconstructions07@gmail.com" className="text-gray-900 hover:text-orange-600 transition-colors">
+                      nvconstructions07@gmail.com
                     </a>
                   </div>
                 </div>
@@ -145,7 +142,7 @@ export function ContactSection() {
               {/* Map placeholder */}
               <div className="mt-6 h-48 bg-gray-200 rounded-lg overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122639.89163343884!2d77.51522495!3d14.68310285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb14a67e93897e7%3A0x6ef9607459fd14b7!2sAnantapur%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d482.47729763144383!2d77.5984847!3d14.6662461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb14bfe9bccc04f%3A0x9010558047ad254e!2sNV%20Constructions!5e0!3m2!1sen!2sin!4v1766744225744!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}

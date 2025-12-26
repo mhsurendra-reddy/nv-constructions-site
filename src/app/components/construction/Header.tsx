@@ -18,9 +18,9 @@ export function Header() {
               <Phone className="h-4 w-4" />
               <span>9392309864</span>
             </a>
-            <a href="mailto:ranganath3112@gmail.com" className="flex items-center gap-2 hover:text-orange-600 transition-colors">
+            <a href="mailto:nvconstructions07@gmail.com" className="flex items-center gap-2 hover:text-orange-600 transition-colors">
               <Mail className="h-4 w-4" />
-              <span>ranganath3112@gmail.com</span>
+              <span>nvconstructions07@gmail.com</span>
             </a>
           </div>
           <div className="flex items-center gap-2 text-gray-600">

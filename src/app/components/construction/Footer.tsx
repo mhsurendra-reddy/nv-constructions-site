@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="h-16 w-auto" />
+            <img src="/nv-constructions-site/images/logo.jpg" alt="NV Constructions" className="w-32 h-auto rounded-xl" />
             <p className="text-gray-400 mb-4">
               Your trusted partner for quality construction services in Anantapuramu.
             </p>
@@ -84,15 +84,12 @@ export function Footer() {
                   <a href="tel:9392309864" className="text-gray-400 hover:text-orange-600 transition-colors block">
                     +91 9392309864
                   </a>
-                  <a href="tel:8008844057" className="text-gray-400 hover:text-orange-600 transition-colors block">
-                    +91 8008844057
-                  </a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-orange-600 mt-1 flex-shrink-0" />
-                <a href="mailto:ranganath3112@gmail.com" className="text-gray-400 hover:text-orange-600 transition-colors">
-                  ranganath3112@gmail.com
+                <a href="mailto:nvconstructions07@gmail.com" className="text-gray-400 hover:text-orange-600 transition-colors">
+                  nvconstructions07@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
